@@ -19,8 +19,8 @@ nav.navbar{/*Color del nav bar*/
 .navbar-default .navbar-nav > .active > a, /*Fondo de links puntero sobre ellos*/
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
-    color: #D7DBDD;
-    background-color: grey;
+    color: white;
+    background-color: #34495E;
     opacity: .9;
     font-family: 'Lobster', cursive;
 }
@@ -67,6 +67,13 @@ h1{
     text-shadow: 5px 5px 5px;
     color: blue;
 }
+.iconos1{
+    font-size: 300%;
+    color: white;
+    display: inline-block;
+    margin-top: 2%;
+    margin-right: 2%;
+}
 .texto1{
     margin-bottom: 20%;
 }
@@ -77,4 +84,20 @@ h1{
 .logo{
     width: 50%;
 }
-
+.logo1{
+    width: 40%;
+}
+.fondoa{
+    background-color: #7FB3D5;
+    color: white;
+    text-align: center;
+    margin-top: 7%;
+}
+button{
+    margin-top: 5%;
+    
+}
+footer{
+    background-color: #34495E;
+    color: white;
+}
