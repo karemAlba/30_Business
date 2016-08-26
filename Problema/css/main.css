@@ -51,4 +51,30 @@ h1{
     position: absolute;
     z-index: -1;
 }
-    
+.fondor{
+    width: 30%;
+    border: blue solid  0 2px 2px 0 ;
+    border-radius: 360px;
+    box-shadow: 2px 2px 2px 2px;
+    padding: 5%;
+    margin-left: 35%;
+    margin-bottom: 8%;
+    margin-top:10%; 
+}
+.iconos{
+    font-size: 300%;
+    margin-top: 10%;
+    text-shadow: 5px 5px 5px;
+    color: blue;
+}
+.texto1{
+    margin-bottom: 20%;
+}
+.separador{
+       margin-top: -6%;
+       margin-bottom: 1%;
+}
+.logo{
+    width: 50%;
+}
+
