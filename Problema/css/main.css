@@ -29,6 +29,9 @@ nav.navbar{/*Color del nav bar*/
 	background-size: cover;
 	height: 900%;
 }
+.espacioa{
+    margin-top:12%; 
+}
 .contenedor1{
     background-color: black;
     background-size: cover;
